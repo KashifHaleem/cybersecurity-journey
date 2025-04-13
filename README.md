@@ -1,4 +1,3 @@
-# cybersecurity-journey
 # 🛡️ Cybersecurity Journey
 
 Welcome to my cybersecurity learning journey! I'm Kashif Haleem, a Computer Science graduate and former educator transitioning into the exciting world of cybersecurity.
